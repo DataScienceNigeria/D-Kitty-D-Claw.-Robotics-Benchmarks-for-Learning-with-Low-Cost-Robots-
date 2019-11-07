@@ -1,1 +1,1 @@
-# D-Kitty-D-Claw.-Robotics-Benchmarks-for-Learning-with-Low-Cost-Robots-
+# D-Kitty & D-Claw: Robotics-Benchmarks-for-Learning-with-Low-Cost-Robots
